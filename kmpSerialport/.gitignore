@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+local.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Kotlin
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# macOS
+.DS_Store
+
+# Sensitive information
+gradle.properties
+secring.gpg
+*.gpg
+
+# Android
+/captures
+.externalNativeBuild
+.cxx
+
+# Generated files
+bin/
+gen/
+out/ 

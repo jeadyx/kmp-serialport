@@ -1,0 +1,15 @@
+# Sonatype credentials
+tokenUser=your-sonatype-username
+tokenUserPasswd=your-sonatype-password
+
+# Signing configuration
+signingKeyId=your-gpg-key-id
+signingKeyPasswd=your-gpg-key-password
+signingSecretKeyPath=path/to/your/secring.gpg
+
+# Example values:
+# tokenUser=myusername
+# tokenUserPasswd=mypassword
+# signingKeyId=3F9FD422
+# signingKeyPasswd=mygpgpassword
+# signingSecretKeyPath=C:/Users/username/.gnupg/secring.gpg
